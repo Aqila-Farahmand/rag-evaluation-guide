@@ -34,7 +34,7 @@ This repository aims to synthesize **recent developments in Retrieval-Augmented 
 
 ---
 
-## 🧠 Key Questions Explored
+## Key Questions Explored
 
 ### 1. How is RAG used in recent literature?
 
@@ -78,3 +78,20 @@ This repository aims to synthesize **recent developments in Retrieval-Augmented 
 ├── notebooks/              # Analysis notebooks
 ├── data/                   # Example datasets or samples
 ├── README.md               # This file
+
+```
+
+## Contributions
+
+- Contributions are welcome! If you’ve read a recent RAG paper or tested a relevant tool, feel free to:
+
+- Add it to the literature table
+
+- Share dataset insights
+
+- Suggest or implement pipeline improvements
+
+## 📬 Contact
+
+For questions or collaborations, open an issue or contact me here → [aqila.farahmand@uniurb.it](mailto:aqila.farahmand@uniurb.it)
+
